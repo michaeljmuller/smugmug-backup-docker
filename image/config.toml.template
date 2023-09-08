@@ -1,0 +1,15 @@
+[authentication]
+api_key = "SB_API_KEY"
+api_secret = "SB_API_SECRET"
+user_token = "SB_USER_TOKEN"
+user_secret = "SB_USER_SECRET"
+
+[store]
+destination = "SB_DESTINATION"
+file_names = "SB_FILE_NAMES"
+use_metadata_times = SB_USE_METADATA_TIMES
+force_metadata_times = SB_FORCE_METADATA_TIMES
+write_csv = SB_WRITE_CSV
+force_video_download = SB_FORCE_VIDEO_DOWNLOAD
+concurrent_albums = SB_CONCURRENT_ALBUMS
+concurrent_downloads = SB_CONCURRENT_DOWNLOADS
