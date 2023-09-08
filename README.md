@@ -65,7 +65,7 @@ for explanations):
 Here's sample command to use this image:
 
 ```
-docker run -it \
+docker run \
        -e "SB_API_KEY=REDACTED" \
        -e "SB_API_SECRET=REDACTED" \
        -e "SB_USER_TOKEN=REDACTED" \
