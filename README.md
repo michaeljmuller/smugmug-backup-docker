@@ -46,7 +46,7 @@ container writes the photos is `/photos`, but you can change that by setting the
 environment variable.
 
 Complete list of environment variables (see [Tommasso's README](https://github.com/tommyblue/smugmug-backup#configuration) 
-for explanations:
+for explanations):
  - SB_API_KEY
  - SB_API_SECRET
  - SB_USER_TOKEN
